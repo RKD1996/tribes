@@ -27,4 +27,7 @@ to show the graph i have used the Amcharts4
 ### css-preprocessors
 I have used the scss pre-processor for writing css
 
-###demo: https://tribes-e1bcd.web.app/#/
+### material design
+i have used Vuetify Vue Ui Library for the material components that are used in this project
+
+### demo: https://tribes-e1bcd.web.app/#/
