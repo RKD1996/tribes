@@ -26,3 +26,5 @@ to show the graph i have used the Amcharts4
 
 ### css-preprocessors
 I have used the scss pre-processor for writing css
+
+###demo: https://tribes-e1bcd.web.app/#/
