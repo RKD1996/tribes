@@ -15,5 +15,14 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### MokeData
+i have used the vue-faker to generate 100k dataset
+
+### mockAPi
+i have used the mirage.js as the mock api provider where also i am storing the 100k dataset and fetching it
+
+### graph
+to show the graph i have used the Amcharts4
+
+### css-preprocessors
+I have used the scss pre-processor for writing css
